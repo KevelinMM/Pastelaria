@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pastelaria do Zé</name>
+    </assembly>
+    <members>
+        <member name="T:Pastelaria_do_Zé.Cadastrar_Produto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastrar_Produto.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Cadastrar_Produto.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastrar_Produto.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastrar_Produto.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Cadastro_Cliente">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Cadastro_Cliente.dao">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Cliente.#ctor">
+             <summary>
+            
+             </summary>
+             
+        </member>
+        <member name="F:Pastelaria_do_Zé.Cadastro_Cliente.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Cliente.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Cliente.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Cadastro_Funcionario">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Funcionario.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Cadastro_Funcionario.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Funcionario.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Funcionario.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.ClassFuncoes.Sha256Hash(System.String)">
+            string hash = ClassFuncoes.Sha256Hash(textBoxSenha.Text);
+        </member>
+        <member name="M:Pastelaria_do_Zé.ClassFuncoes.CampoEventoEnter(System.Object,System.EventArgs)">
+            <summary>
+            Altera a cor do BackGroud quando o campo ganha o foco
+            </summary>
+            <param name="sender">Objeto que gerou o evento</param>
+            <param name="e">Evento que foi capturado</param>
+            <example> textBoxUsuario.Enter += new System.EventHandler(ClassFuncoes.CampoEventoEnter); </example>
+        </member>
+        <member name="M:Pastelaria_do_Zé.ClassFuncoes.CampoEventoLeave(System.Object,System.EventArgs)">
+            <summary>
+            Alterar a cor do BackGroup quando o campo perde o foco
+            </summary>
+            <param name="sender">Objeto que gerou o evento</param>
+            <param name="e">Evento que foi capturado</param>
+            <example> textBoxUsuario.Leave += new System.EventHandler(ClassFuncoes.CampoEventoLeave); </example>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Configuracoes">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Configuracoes.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Configuracoes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Configuracoes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Configuracoes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Lista">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Lista.dao_fun">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Lista.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Lista.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Lista.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Lista.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Login">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Login.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Login.components">
+            <summary>
+             Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Login.Dispose(System.Boolean)">
+            <summary>
+             Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Login.InitializeComponent">
+            <summary>
+             Required method for Designer support - do not modify
+             the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Menu">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Menu.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Menu.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Menu.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Menu.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Program.Main">
+            <summary>
+             Configuracoes
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Properties.Resources">
+            <summary>
+              Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.ResourceManager">
+            <summary>
+              Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.Culture">
+            <summary>
+              Substitui a propriedade CurrentUICulture do thread atual para todas as
+              pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.alertExit">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Você tem certeza que deseja sair?.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.alertTitle">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Confirmação.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.cracha">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.cracha1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.icon_producao_jpg">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.image_icon_jpg">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.lupa">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtAdministrador">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Administrador.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtAlerta">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Alerta.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtBalcao">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Balcão.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtCadastrar">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Cadastrar.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtCadastrarProduto">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Cadastrar Produto.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtCadastroCliente">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Cadastro Cliente.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtCadastroFuncionario">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Cadastro Funcionários.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtCamposPreenchidos">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Todos os campos devem ser preenchidos!.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtClientes">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Clientes.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtConfiguracoes">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Config.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtConfirma">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Confirmação.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtContato">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Contato.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtCopiright">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Copyright.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtDataFiado">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Data Fiado.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtDescricao">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a CPF.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtEntrar">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Entrar.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtEsqueciSenha">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Esqueci minha Senha.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtFiado">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Fiado.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtFuncionarios">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Funcionários.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtIdioma">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Idioma.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtImagem">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Imagem.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtInicio">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Início.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtMatricula">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Matrícula.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtMultas">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Multa por Atraso (R$).
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtNome">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Nome.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtNome_Matricula">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Nome + Matrícula.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtNomeCompanhia">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Nome da Companhia.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtNomeCompleto">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Nome Completo.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtNomeProduto">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Nome do Produto.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtNomeSenha">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Nova Senha.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtPercentualJuros">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Percentual Diário de Juros.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtPreco">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Preço.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtProdutos">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Produtos.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtRecuperaSenha">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Informe seu Email.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtReSenha">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Re-Senha.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtRestart">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a A apicação será reiniciada.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtSair">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Sair.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtSalvar">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Salvar.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtSenha">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Senha.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtSistemasCobraca">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Sistema de Cobrança em Atraso.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtSobre">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Sobre.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtTituloPrincial">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Pastelaria do Zé.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtUsuario">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Usuário.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtVersao">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Versão.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtVoltar">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Voltar.
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Recuperarsenha">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Recuperarsenha.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Recuperarsenha.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Recuperarsenha.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Recuperarsenha.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Salvar_Voltar">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Salvar_Voltar.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Salvar_Voltar.components">
+            <summary> 
+            Variável de designer necessária.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Salvar_Voltar.Dispose(System.Boolean)">
+            <summary> 
+            Limpar os recursos que estão sendo usados.
+            </summary>
+            <param name="disposing">true se for necessário descartar os recursos gerenciados; caso contrário, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Salvar_Voltar.InitializeComponent">
+            <summary> 
+            Método necessário para suporte ao Designer - não modifique 
+            o conteúdo deste método com o editor de código.
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Salvar_Voltar.Voltar">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Salvar_Voltar.Salvar">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.Sobre">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Sobre.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Sobre.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Sobre.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Sobre.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Pastelaria_do_Zé.ApplicationConfiguration">
+            <summary>
+             Bootstrap the application configuration.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.ApplicationConfiguration.Initialize">
+            <summary>
+             Bootstrap the application as follows:
+             <code>
+             Application.EnableVisualStyles();
+             Application.SetCompatibleTextRenderingDefault(false);
+             Application.SetHighDpiMode(HighDpiMode.SystemAware);
+            </code>
+            </summary>
+        </member>
+    </members>
+</doc>

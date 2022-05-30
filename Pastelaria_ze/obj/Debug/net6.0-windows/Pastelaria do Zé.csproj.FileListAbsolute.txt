@@ -1,0 +1,215 @@
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastrar_Produto.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Cliente.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Funcionario.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Configuracoes.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Menu.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Recuperarsenha.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Salvar_Voltar.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Sobre.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.es.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resource.es.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.en-US.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.GenerateResource.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.exe
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.dll.config
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.deps.json
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.runtimeconfig.json
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\ref\Pastelaria do Zé.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\bin\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\ref\Pastelaria do Zé.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\ref\Pastelaria do Zé.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.exe
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.dll.config
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.deps.json
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.runtimeconfig.json
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\ref\Pastelaria do Zé.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\Pastelaria do Zé.xml
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\bin\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastrar_Produto.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Cliente.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Funcionario.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Configuracoes.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Menu.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Recuperarsenha.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Salvar_Voltar.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Sobre.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.es.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.en-US.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.GenerateResource.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.xml
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria do Zé.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.es.resources
+C:\Users\ALUNO\Desktop\PastelariaDoZe-main\PastelariaDoZe-main\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resource.es.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\Pastelaria do Zé.exe
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\Pastelaria do Zé.dll.config
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\Pastelaria do Zé.deps.json
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\Pastelaria do Zé.runtimeconfig.json
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\Pastelaria do Zé.xml
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\Documents\PastelariaDoZe\bin\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.AssemblyReference.cache
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastrar_Produto.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Cliente.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Funcionario.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Configuracoes.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Menu.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Recuperarsenha.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Salvar_Voltar.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Sobre.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.es.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resource.es.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.en-US.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.es.resources
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.GenerateResource.cache
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfoInputs.cache
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfo.cs
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.CoreCompileInputs.cache
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\refint\Pastelaria do Zé.dll
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.xml
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\Pastelaria do Zé.genruntimeconfig.cache
+C:\Users\Kevelin\Documents\PastelariaDoZe\obj\Debug\net6.0-windows\ref\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.exe
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.dll.config
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.deps.json
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.runtimeconfig.json
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.xml
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.AssemblyReference.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastrar_Produto.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Cliente.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Funcionario.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Configuracoes.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Menu.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Recuperarsenha.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Salvar_Voltar.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Sobre.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.es.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.en-US.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.es.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.GenerateResource.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfoInputs.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfo.cs
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.CoreCompileInputs.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\refint\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.xml
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.genruntimeconfig.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\ref\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.CopyComplete
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\ProjetoPastelariaDoZe_2022.DAO.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\bin\Debug\net6.0-windows\ProjetoPastelariaDoZe_2022.DAO.pdb
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.AssemblyReference.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastrar_Produto.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Cliente.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Cadastro_Funcionario.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Configuracoes.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Menu.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Recuperarsenha.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Salvar_Voltar.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Sobre.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Login.es.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.en-US.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Properties.Resources.es.resources
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.GenerateResource.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfoInputs.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.AssemblyInfo.cs
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.CoreCompileInputs.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\refint\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.xml
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.exe
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.dll.config
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.deps.json
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.runtimeconfig.json
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.pdb
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Pastelaria do Zé.xml
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\ProjetoPastelariaDoZe_2022.DAO.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\bin\Debug\net6.0-windows\ProjetoPastelariaDoZe_2022.DAO.pdb
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\es\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\en-US\Pastelaria do Zé.resources.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.csproj.CopyComplete
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.genruntimeconfig.cache
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\ref\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria_ze\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Lista.resources

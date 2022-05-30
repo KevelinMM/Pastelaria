@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Cadastrar_Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastro_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cadastro_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Configuracoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recuperarsenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Salvar_Voltar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.en-US.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
