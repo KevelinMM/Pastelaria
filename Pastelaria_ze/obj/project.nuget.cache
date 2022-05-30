@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aImka2G/Lgud8P1U8fbJilYTyMDChK1ZnX8PPfONT9n6WVVhaA/oBdBoakXuiw9tDmXS+YiYSq7hez60+x8G6g==",
+  "dgSpecHash": "6EahHFJ+EfALGtQjQ47sbWf/cNjYnyqp13bRZHOUOCeKZ6qckJboIhXXDdx0L48/svp0SvK4pNN9AwrCgwVTcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\Pastelaria_ze\\Pastelaria do Zé.csproj",
+  "projectFilePath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\Pastelaria_ze\\Pastelaria do Zé.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kevelin\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Kevelin\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

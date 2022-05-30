@@ -22,3 +22,15 @@ C:\Users\Kevelin\source\repos\Pastelaria_ze\ProjetoPastelariaDoZe_2022.DAO\obj\D
 C:\Users\Kevelin\source\repos\Pastelaria_ze\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\refint\ProjetoPastelariaDoZe_2022.DAO.dll
 C:\Users\Kevelin\source\repos\Pastelaria_ze\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.pdb
 C:\Users\Kevelin\source\repos\Pastelaria_ze\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ref\ProjetoPastelariaDoZe_2022.DAO.dll
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\bin\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.deps.json
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\bin\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.dll
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\bin\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.pdb
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.csproj.AssemblyReference.cache
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.AssemblyInfoInputs.cache
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.AssemblyInfo.cs
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.dll
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\refint\ProjetoPastelariaDoZe_2022.DAO.dll
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ProjetoPastelariaDoZe_2022.DAO.pdb
+C:\Users\Kevelin\source\repos\Pastelaria\ProjetoPastelariaDoZe_2022.DAO\obj\Debug\net6.0\ref\ProjetoPastelariaDoZe_2022.DAO.dll

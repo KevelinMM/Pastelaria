@@ -71,8 +71,7 @@ public class ClienteDAO
                                        //verifica se tem filtro
                                        //Adiciona parâmetro (@campo e valor)
         conexao.Open();
-        comando.CommandText = @"SELECT id_cliente AS ID, nome AS Nome, cpf AS CPF,
-       telefone AS Telefone, compra_fiado AS Compra_fiado, dia_fiado AS Dia_fiado FROM tb_cliente";
+        comando.CommandText = @"SELECT * FROM tb_cliente";
 
         //Executa o script na conexão e retorna as linhas afetadas.
         var sdr = comando.ExecuteReader();

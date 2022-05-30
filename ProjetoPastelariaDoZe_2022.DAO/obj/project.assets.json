@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj",
+      "projectUniqueName": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj",
       "projectName": "ProjetoPastelariaDoZe_2022.DAO",
-      "projectPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj",
+      "projectPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj",
       "packagesPath": "C:\\Users\\Kevelin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\obj\\",
+      "outputPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kevelin\\AppData\\Roaming\\NuGet\\NuGet.Config",

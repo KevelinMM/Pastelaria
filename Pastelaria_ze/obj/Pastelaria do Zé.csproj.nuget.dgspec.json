@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\Pastelaria_ze\\Pastelaria do Zé.csproj": {}
+    "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\Pastelaria_ze\\Pastelaria do Zé.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\Pastelaria_ze\\Pastelaria do Zé.csproj": {
+    "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\Pastelaria_ze\\Pastelaria do Zé.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\Pastelaria_ze\\Pastelaria do Zé.csproj",
+        "projectUniqueName": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\Pastelaria_ze\\Pastelaria do Zé.csproj",
         "projectName": "Pastelaria do Zé",
-        "projectPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\Pastelaria_ze\\Pastelaria do Zé.csproj",
+        "projectPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\Pastelaria_ze\\Pastelaria do Zé.csproj",
         "packagesPath": "C:\\Users\\Kevelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\Pastelaria_ze\\obj\\",
+        "outputPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\Pastelaria_ze\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevelin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj": {
-                "projectPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj"
+              "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj": {
+                "projectPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj": {
+    "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj",
+        "projectUniqueName": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj",
         "projectName": "ProjetoPastelariaDoZe_2022.DAO",
-        "projectPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj",
+        "projectPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\ProjetoPastelariaDoZe_2022.DAO.csproj",
         "packagesPath": "C:\\Users\\Kevelin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria_ze\\ProjetoPastelariaDoZe_2022.DAO\\obj\\",
+        "outputPath": "C:\\Users\\Kevelin\\source\\repos\\Pastelaria\\ProjetoPastelariaDoZe_2022.DAO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevelin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -75,8 +75,7 @@ public class FuncionarioDAO
                                        //verifica se tem filtro
                                        //Adiciona parâmetro (@campo e valor)
         conexao.Open();
-        comando.CommandText = @"SELECT id_funcionario AS ID, nome AS Nome, cpf AS CPF,
-        telefone AS Telefone, matricula AS Matricula, grupo AS Grupo FROM tb_funcionario";
+        comando.CommandText = @"SELECT * FROM tb_funcionario";
 
         //Executa o script na conexão e retorna as linhas afetadas.
         var sdr = comando.ExecuteReader();

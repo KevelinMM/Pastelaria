@@ -111,6 +111,7 @@
             // 
             this.textBoxClienteRe.Location = new System.Drawing.Point(354, 310);
             this.textBoxClienteRe.Name = "textBoxClienteRe";
+            this.textBoxClienteRe.PasswordChar = '*';
             this.textBoxClienteRe.Size = new System.Drawing.Size(153, 23);
             this.textBoxClienteRe.TabIndex = 7;
             // 
@@ -118,6 +119,7 @@
             // 
             this.textBoxClienteSenha.Location = new System.Drawing.Point(67, 310);
             this.textBoxClienteSenha.Name = "textBoxClienteSenha";
+            this.textBoxClienteSenha.PasswordChar = '*';
             this.textBoxClienteSenha.Size = new System.Drawing.Size(143, 23);
             this.textBoxClienteSenha.TabIndex = 6;
             // 

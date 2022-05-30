@@ -72,6 +72,7 @@
             // 
             this.textBoxFuncionarioSenha.Location = new System.Drawing.Point(35, 345);
             this.textBoxFuncionarioSenha.Name = "textBoxFuncionarioSenha";
+            this.textBoxFuncionarioSenha.PasswordChar = '*';
             this.textBoxFuncionarioSenha.Size = new System.Drawing.Size(156, 23);
             this.textBoxFuncionarioSenha.TabIndex = 7;
             // 
@@ -79,6 +80,7 @@
             // 
             this.textBoxFuncionarioRe.Location = new System.Drawing.Point(372, 345);
             this.textBoxFuncionarioRe.Name = "textBoxFuncionarioRe";
+            this.textBoxFuncionarioRe.PasswordChar = '*';
             this.textBoxFuncionarioRe.Size = new System.Drawing.Size(163, 23);
             this.textBoxFuncionarioRe.TabIndex = 8;
             // 
