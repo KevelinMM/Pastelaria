@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ProjetoPastelariaDoZe_2022.DAO;
+using System.Configuration;
 
 namespace Pastelaria_do_Zé
 {
@@ -15,6 +17,7 @@ namespace Pastelaria_do_Zé
     /// </summary>
     public partial class Cadastrar_Produto : Form
     {
+        private readonly ProdutoDAO dao;
         /// <summary>
         /// 
         /// </summary>
@@ -36,14 +39,32 @@ namespace Pastelaria_do_Zé
 
             salvar_VoltarProduto.Voltar.Click += Voltar_Click;
             salvar_VoltarProduto.Salvar.Click += Salvar_Click;
+            string provider = ConfigurationManager.ConnectionStrings["BD"].ProviderName;
+            string strConnection = ConfigurationManager.ConnectionStrings["BD"].ConnectionString;
+            dao = new ProdutoDAO(provider, strConnection);
         }
 
         private void Salvar_Click(object? sender, EventArgs e)
         {
-            this.Hide();
-            Form f = new Menu();
-            f.Closed += (s, args) => this.Close();
-            f.Show();
+            //Instância e Preenche o objeto com os dados da view
+            var produto = new Produto
+            {
+                IdProduto = 0,
+                Nome = textBoxProdutoNome.Text,
+                Descricao = textBoxProdutoDescricao.Text,
+                ValorUnitario = double.Parse(maskedTextBoxProduto.Text),
+                Foto = ClassFuncoes.ConverteImagemParaByteArray(pictureBoxProduto.Image),
+            };
+            try
+            {
+                // chama o método para inserir da camada model
+                dao.InserirDbProvider(produto);
+                MessageBox.Show("Dados inseridos com sucesso!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void Voltar_Click(object? sender, EventArgs e)
@@ -88,6 +109,20 @@ namespace Pastelaria_do_Zé
                 {
                     e.Cancel = true;
                 }
+            }
+        }
+        private void PictureBoxProduto_Click(object sender, EventArgs e)
+        {
+            openFileDialogImagem.Title = "Imagem do produto";
+            openFileDialogImagem.Filter = "Images (*.JPEG; *.BMP; *.JPG; *.GIF; *.PNG; *.)|*.JPEG; *.BMP; *.JPG; *.GIF; *.PNG; *.icon; *.JFIF";
+            if (openFileDialogImagem.ShowDialog() == DialogResult.OK)
+            {
+                //pega a imagem escolhida e adiciona na tela
+                pictureBoxProduto.Image = Image.FromFile(openFileDialogImagem.FileName);
+                //redimensiona a imagem
+                pictureBoxProduto.Image = (Image)(new Bitmap(pictureBoxProduto.Image, new Size(130, 98)));
+                //ajusta a visualização no tamanho do pictureBoxImagem na tela
+                pictureBoxProduto.SizeMode = PictureBoxSizeMode.StretchImage;
             }
         }
     }

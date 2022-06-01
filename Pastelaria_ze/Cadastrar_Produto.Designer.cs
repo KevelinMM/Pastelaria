@@ -41,11 +41,12 @@
             this.pictureBoxProduto = new System.Windows.Forms.PictureBox();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.salvar_VoltarProduto = new Pastelaria_do_Zé.Salvar_Voltar();
-            this.maskedTextBox3 = new System.Windows.Forms.MaskedTextBox();
+            this.maskedTextBoxProduto = new System.Windows.Forms.MaskedTextBox();
             this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.openFileDialogImagem = new System.Windows.Forms.OpenFileDialog();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxProduto)).BeginInit();
             this.SuspendLayout();
@@ -143,6 +144,7 @@
             this.pictureBoxProduto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBoxProduto.TabIndex = 61;
             this.pictureBoxProduto.TabStop = false;
+            this.pictureBoxProduto.Click += new System.EventHandler(this.PictureBoxProduto_Click);
             // 
             // salvar_VoltarProduto
             // 
@@ -151,14 +153,14 @@
             this.salvar_VoltarProduto.Size = new System.Drawing.Size(583, 64);
             this.salvar_VoltarProduto.TabIndex = 5;
             // 
-            // maskedTextBox3
+            // maskedTextBoxProduto
             // 
-            this.maskedTextBox3.Location = new System.Drawing.Point(402, 112);
-            this.maskedTextBox3.Mask = "$99999,99";
-            this.maskedTextBox3.Name = "maskedTextBox3";
-            this.maskedTextBox3.Size = new System.Drawing.Size(100, 23);
-            this.maskedTextBox3.TabIndex = 62;
-            this.maskedTextBox3.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
+            this.maskedTextBoxProduto.Location = new System.Drawing.Point(402, 112);
+            this.maskedTextBoxProduto.Mask = "$99999,99";
+            this.maskedTextBoxProduto.Name = "maskedTextBoxProduto";
+            this.maskedTextBoxProduto.Size = new System.Drawing.Size(100, 23);
+            this.maskedTextBoxProduto.TabIndex = 62;
+            this.maskedTextBoxProduto.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             // 
             // maskedTextBox1
             // 
@@ -202,6 +204,10 @@
             this.label3.TabIndex = 66;
             this.label3.Text = "*";
             // 
+            // openFileDialogImagem
+            // 
+            this.openFileDialogImagem.FileName = "openFileDialog1";
+            // 
             // Cadastrar_Produto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -211,7 +217,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.maskedTextBox1);
-            this.Controls.Add(this.maskedTextBox3);
+            this.Controls.Add(this.maskedTextBoxProduto);
             this.Controls.Add(this.salvar_VoltarProduto);
             this.Controls.Add(this.pictureBoxProduto);
             this.Controls.Add(this.textBoxProdutoDescricao);
@@ -250,10 +256,11 @@
         private PictureBox pictureBoxProduto;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private Salvar_Voltar salvar_VoltarProduto;
-        private MaskedTextBox maskedTextBox3;
+        private MaskedTextBox maskedTextBoxProduto;
         private MaskedTextBox maskedTextBox1;
         private Label label3;
         private Label label2;
         private Label label1;
+        private OpenFileDialog openFileDialogImagem;
     }
 }
