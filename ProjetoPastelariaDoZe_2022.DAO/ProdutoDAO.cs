@@ -15,13 +15,13 @@ namespace ProjetoPastelariaDoZe_2022.DAO
         public double ValorUnitario { get; set; }
         public string Descricao { get; set; }
         public byte[] Foto { get; set; }
-        public Produto(int id = 0, string nome = "", double valorUnitario = 0, string descricao = "", byte[] foto = null)
+        public Produto(int id = 0, string nome = "", double valorUnitario = 0, string descricao = "", byte[]? foto = null)
         {
             IdProduto = id;
             Nome = nome;
             ValorUnitario = valorUnitario;
             Descricao = descricao;
-            Foto = foto;
+            Foto = foto!;
         }
     }
 

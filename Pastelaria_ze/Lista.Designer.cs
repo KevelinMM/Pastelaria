@@ -67,7 +67,7 @@
             this.buttonCliCadastrados.TabIndex = 58;
             this.buttonCliCadastrados.Text = "Clientes";
             this.buttonCliCadastrados.UseVisualStyleBackColor = false;
-            this.buttonCliCadastrados.Click += new System.EventHandler(this.buttonCliCadastrados_Click);
+            this.buttonCliCadastrados.Click += new System.EventHandler(this.ButtonCliCadastrados_Click);
             // 
             // buttonProCadastrados
             // 
@@ -78,6 +78,7 @@
             this.buttonProCadastrados.TabIndex = 59;
             this.buttonProCadastrados.Text = "Produtos";
             this.buttonProCadastrados.UseVisualStyleBackColor = false;
+            this.buttonProCadastrados.Click += new System.EventHandler(this.ButtonProCadastrados_Click);
             // 
             // buttonSair
             // 
@@ -88,7 +89,7 @@
             this.buttonSair.TabIndex = 60;
             this.buttonSair.Text = "Sair";
             this.buttonSair.UseVisualStyleBackColor = false;
-            this.buttonSair.Click += new System.EventHandler(this.buttonSair_Click);
+            this.buttonSair.Click += new System.EventHandler(this.ButtonSair_Click);
             // 
             // labelFuncionarioCadastro
             // 
