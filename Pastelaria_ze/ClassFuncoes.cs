@@ -87,5 +87,19 @@ namespace Pastelaria_do_Zé
             }
             return ms.ToArray();
         }
+
+        //pictureBoxCompanyLogo.Image = ConverteByteArrayParaImagem((byte[]) byteimage);
+        public static Image? ConverteByteArrayParaImagem(byte[] pData)
+        {
+            try
+            {
+                ImageConverter imgConverter = new();
+                return imgConverter.ConvertFrom(pData) as Image;
+            }
+            catch
+            {
+                return null;
+            }
+        }
     }
 }

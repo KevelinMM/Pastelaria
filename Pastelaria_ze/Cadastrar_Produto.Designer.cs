@@ -47,22 +47,26 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.openFileDialogImagem = new System.Windows.Forms.OpenFileDialog();
+            this.dataGridViewDados = new System.Windows.Forms.DataGridView();
+            this.buttonEditarProduto = new System.Windows.Forms.Button();
+            this.buttonExcluirProduto = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxProduto)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDados)).BeginInit();
             this.SuspendLayout();
             // 
             // splitter1
             // 
             this.splitter1.Location = new System.Drawing.Point(0, 0);
             this.splitter1.Name = "splitter1";
-            this.splitter1.Size = new System.Drawing.Size(3, 401);
+            this.splitter1.Size = new System.Drawing.Size(3, 463);
             this.splitter1.TabIndex = 52;
             this.splitter1.TabStop = false;
             // 
             // labelProdutoDescricao
             // 
             this.labelProdutoDescricao.AutoSize = true;
-            this.labelProdutoDescricao.Location = new System.Drawing.Point(29, 163);
+            this.labelProdutoDescricao.Location = new System.Drawing.Point(45, 186);
             this.labelProdutoDescricao.Name = "labelProdutoDescricao";
             this.labelProdutoDescricao.Size = new System.Drawing.Size(61, 15);
             this.labelProdutoDescricao.TabIndex = 47;
@@ -71,7 +75,7 @@
             // labelProdutoNome
             // 
             this.labelProdutoNome.AutoSize = true;
-            this.labelProdutoNome.Location = new System.Drawing.Point(213, 94);
+            this.labelProdutoNome.Location = new System.Drawing.Point(45, 135);
             this.labelProdutoNome.Name = "labelProdutoNome";
             this.labelProdutoNome.Size = new System.Drawing.Size(43, 15);
             this.labelProdutoNome.TabIndex = 46;
@@ -80,7 +84,7 @@
             // labelProdutoID
             // 
             this.labelProdutoID.AutoSize = true;
-            this.labelProdutoID.Location = new System.Drawing.Point(29, 94);
+            this.labelProdutoID.Location = new System.Drawing.Point(45, 79);
             this.labelProdutoID.Name = "labelProdutoID";
             this.labelProdutoID.Size = new System.Drawing.Size(21, 15);
             this.labelProdutoID.TabIndex = 45;
@@ -88,9 +92,9 @@
             // 
             // textBoxProdutoNome
             // 
-            this.textBoxProdutoNome.Location = new System.Drawing.Point(213, 112);
+            this.textBoxProdutoNome.Location = new System.Drawing.Point(45, 153);
             this.textBoxProdutoNome.Name = "textBoxProdutoNome";
-            this.textBoxProdutoNome.Size = new System.Drawing.Size(128, 23);
+            this.textBoxProdutoNome.Size = new System.Drawing.Size(252, 23);
             this.textBoxProdutoNome.TabIndex = 2;
             // 
             // labelProdutoCadastrar
@@ -98,7 +102,7 @@
             this.labelProdutoCadastrar.AutoSize = true;
             this.labelProdutoCadastrar.Font = new System.Drawing.Font("Segoe UI", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.labelProdutoCadastrar.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.labelProdutoCadastrar.Location = new System.Drawing.Point(198, 31);
+            this.labelProdutoCadastrar.Location = new System.Drawing.Point(246, 22);
             this.labelProdutoCadastrar.Name = "labelProdutoCadastrar";
             this.labelProdutoCadastrar.Size = new System.Drawing.Size(172, 28);
             this.labelProdutoCadastrar.TabIndex = 38;
@@ -107,7 +111,7 @@
             // labelPodutoPreco
             // 
             this.labelPodutoPreco.AutoSize = true;
-            this.labelPodutoPreco.Location = new System.Drawing.Point(402, 94);
+            this.labelPodutoPreco.Location = new System.Drawing.Point(190, 79);
             this.labelPodutoPreco.Name = "labelPodutoPreco";
             this.labelPodutoPreco.Size = new System.Drawing.Size(40, 15);
             this.labelPodutoPreco.TabIndex = 55;
@@ -116,7 +120,7 @@
             // labelProdutoImagem
             // 
             this.labelProdutoImagem.AutoSize = true;
-            this.labelProdutoImagem.Location = new System.Drawing.Point(359, 162);
+            this.labelProdutoImagem.Location = new System.Drawing.Point(45, 248);
             this.labelProdutoImagem.Name = "labelProdutoImagem";
             this.labelProdutoImagem.Size = new System.Drawing.Size(54, 15);
             this.labelProdutoImagem.TabIndex = 57;
@@ -124,10 +128,10 @@
             // 
             // textBoxProdutoDescricao
             // 
-            this.textBoxProdutoDescricao.Location = new System.Drawing.Point(29, 181);
+            this.textBoxProdutoDescricao.Location = new System.Drawing.Point(45, 212);
             this.textBoxProdutoDescricao.Multiline = true;
             this.textBoxProdutoDescricao.Name = "textBoxProdutoDescricao";
-            this.textBoxProdutoDescricao.Size = new System.Drawing.Size(312, 146);
+            this.textBoxProdutoDescricao.Size = new System.Drawing.Size(252, 24);
             this.textBoxProdutoDescricao.TabIndex = 4;
             // 
             // fileSystemWatcher1
@@ -138,9 +142,9 @@
             // pictureBoxProduto
             // 
             this.pictureBoxProduto.Image = global::Pastelaria_do_Zé.Properties.Resources.image_icon_jpg;
-            this.pictureBoxProduto.Location = new System.Drawing.Point(359, 181);
+            this.pictureBoxProduto.Location = new System.Drawing.Point(45, 267);
             this.pictureBoxProduto.Name = "pictureBoxProduto";
-            this.pictureBoxProduto.Size = new System.Drawing.Size(194, 146);
+            this.pictureBoxProduto.Size = new System.Drawing.Size(144, 110);
             this.pictureBoxProduto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBoxProduto.TabIndex = 61;
             this.pictureBoxProduto.TabStop = false;
@@ -148,26 +152,26 @@
             // 
             // salvar_VoltarProduto
             // 
-            this.salvar_VoltarProduto.Location = new System.Drawing.Point(9, 333);
+            this.salvar_VoltarProduto.Location = new System.Drawing.Point(33, 399);
             this.salvar_VoltarProduto.Name = "salvar_VoltarProduto";
             this.salvar_VoltarProduto.Size = new System.Drawing.Size(583, 64);
             this.salvar_VoltarProduto.TabIndex = 5;
             // 
             // maskedTextBoxProduto
             // 
-            this.maskedTextBoxProduto.Location = new System.Drawing.Point(402, 112);
+            this.maskedTextBoxProduto.Location = new System.Drawing.Point(190, 97);
             this.maskedTextBoxProduto.Mask = "$99999,99";
             this.maskedTextBoxProduto.Name = "maskedTextBoxProduto";
-            this.maskedTextBoxProduto.Size = new System.Drawing.Size(100, 23);
+            this.maskedTextBoxProduto.Size = new System.Drawing.Size(107, 23);
             this.maskedTextBoxProduto.TabIndex = 62;
             this.maskedTextBoxProduto.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             // 
             // maskedTextBox1
             // 
-            this.maskedTextBox1.Location = new System.Drawing.Point(29, 112);
+            this.maskedTextBox1.Location = new System.Drawing.Point(45, 97);
             this.maskedTextBox1.Mask = "0000";
             this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(100, 23);
+            this.maskedTextBox1.Size = new System.Drawing.Size(107, 23);
             this.maskedTextBox1.TabIndex = 63;
             this.maskedTextBox1.TextMaskFormat = System.Windows.Forms.MaskFormat.ExcludePromptAndLiterals;
             // 
@@ -176,7 +180,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.label1.Location = new System.Drawing.Point(115, 94);
+            this.label1.Location = new System.Drawing.Point(138, 79);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(14, 17);
             this.label1.TabIndex = 64;
@@ -187,7 +191,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.label2.Location = new System.Drawing.Point(327, 94);
+            this.label2.Location = new System.Drawing.Point(283, 135);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(14, 17);
             this.label2.TabIndex = 65;
@@ -198,7 +202,7 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.label3.Location = new System.Drawing.Point(488, 94);
+            this.label3.Location = new System.Drawing.Point(283, 79);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(14, 17);
             this.label3.TabIndex = 66;
@@ -208,11 +212,49 @@
             // 
             this.openFileDialogImagem.FileName = "openFileDialog1";
             // 
+            // dataGridViewDados
+            // 
+            this.dataGridViewDados.AllowUserToAddRows = false;
+            this.dataGridViewDados.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.dataGridViewDados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewDados.EditMode = System.Windows.Forms.DataGridViewEditMode.EditProgrammatically;
+            this.dataGridViewDados.Location = new System.Drawing.Point(359, 114);
+            this.dataGridViewDados.MultiSelect = false;
+            this.dataGridViewDados.Name = "dataGridViewDados";
+            this.dataGridViewDados.RowTemplate.Height = 25;
+            this.dataGridViewDados.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridViewDados.Size = new System.Drawing.Size(257, 263);
+            this.dataGridViewDados.TabIndex = 67;
+            this.dataGridViewDados.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGridViewDados_CellContentDoubleClick);
+            // 
+            // buttonEditarProduto
+            // 
+            this.buttonEditarProduto.Location = new System.Drawing.Point(493, 85);
+            this.buttonEditarProduto.Name = "buttonEditarProduto";
+            this.buttonEditarProduto.Size = new System.Drawing.Size(75, 23);
+            this.buttonEditarProduto.TabIndex = 68;
+            this.buttonEditarProduto.Text = "Editar";
+            this.buttonEditarProduto.UseVisualStyleBackColor = true;
+            this.buttonEditarProduto.Click += new System.EventHandler(this.ButtonEditarProduto_Click);
+            // 
+            // buttonExcluirProduto
+            // 
+            this.buttonExcluirProduto.Location = new System.Drawing.Point(400, 85);
+            this.buttonExcluirProduto.Name = "buttonExcluirProduto";
+            this.buttonExcluirProduto.Size = new System.Drawing.Size(75, 23);
+            this.buttonExcluirProduto.TabIndex = 69;
+            this.buttonExcluirProduto.Text = "Excluir";
+            this.buttonExcluirProduto.UseVisualStyleBackColor = true;
+            this.buttonExcluirProduto.Click += new System.EventHandler(this.ButtonExcluirProduto_Click);
+            // 
             // Cadastrar_Produto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(595, 401);
+            this.ClientSize = new System.Drawing.Size(644, 463);
+            this.Controls.Add(this.buttonExcluirProduto);
+            this.Controls.Add(this.buttonEditarProduto);
+            this.Controls.Add(this.dataGridViewDados);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -237,6 +279,7 @@
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Cadastrar_Produto_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxProduto)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDados)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -262,5 +305,8 @@
         private Label label2;
         private Label label1;
         private OpenFileDialog openFileDialogImagem;
+        private DataGridView dataGridViewDados;
+        private Button buttonExcluirProduto;
+        private Button buttonEditarProduto;
     }
 }
