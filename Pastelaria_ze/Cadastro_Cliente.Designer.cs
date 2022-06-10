@@ -31,7 +31,7 @@
             this.labelClienteReSenha = new System.Windows.Forms.Label();
             this.labelClienteSenha = new System.Windows.Forms.Label();
             this.labelClienteContato = new System.Windows.Forms.Label();
-            this.labelClienteDescricao = new System.Windows.Forms.Label();
+            this.labelClienteCPF = new System.Windows.Forms.Label();
             this.labelClienteNome = new System.Windows.Forms.Label();
             this.labelClienteID = new System.Windows.Forms.Label();
             this.textBoxClienteRe = new System.Windows.Forms.TextBox();
@@ -84,14 +84,14 @@
             this.labelClienteContato.TabIndex = 31;
             this.labelClienteContato.Text = "Contato:";
             // 
-            // labelClienteDescricao
+            // labelClienteCPF
             // 
-            this.labelClienteDescricao.AutoSize = true;
-            this.labelClienteDescricao.Location = new System.Drawing.Point(61, 189);
-            this.labelClienteDescricao.Name = "labelClienteDescricao";
-            this.labelClienteDescricao.Size = new System.Drawing.Size(31, 15);
-            this.labelClienteDescricao.TabIndex = 30;
-            this.labelClienteDescricao.Text = "CPF:";
+            this.labelClienteCPF.AutoSize = true;
+            this.labelClienteCPF.Location = new System.Drawing.Point(61, 189);
+            this.labelClienteCPF.Name = "labelClienteCPF";
+            this.labelClienteCPF.Size = new System.Drawing.Size(31, 15);
+            this.labelClienteCPF.TabIndex = 30;
+            this.labelClienteCPF.Text = "CPF:";
             // 
             // labelClienteNome
             // 
@@ -316,7 +316,7 @@
             this.Controls.Add(this.labelClienteReSenha);
             this.Controls.Add(this.labelClienteSenha);
             this.Controls.Add(this.labelClienteContato);
-            this.Controls.Add(this.labelClienteDescricao);
+            this.Controls.Add(this.labelClienteCPF);
             this.Controls.Add(this.labelClienteNome);
             this.Controls.Add(this.labelClienteID);
             this.Controls.Add(this.textBoxClienteRe);
@@ -341,7 +341,7 @@
         private Label labelClienteReSenha;
         private Label labelClienteSenha;
         private Label labelClienteContato;
-        private Label labelClienteDescricao;
+        private Label labelClienteCPF;
         private Label labelClienteNome;
         private Label labelClienteID;
         private TextBox textBoxClienteRe;

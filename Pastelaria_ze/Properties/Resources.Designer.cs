@@ -246,6 +246,15 @@ namespace Pastelaria_do_Zé.Properties {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a CPF.
+        /// </summary>
+        internal static string txtCPF {
+            get {
+                return ResourceManager.GetString("txtCPF", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a Data Fiado.
         /// </summary>
         internal static string txtDataFiado {
@@ -255,7 +264,7 @@ namespace Pastelaria_do_Zé.Properties {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a CPF.
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Descrição.
         /// </summary>
         internal static string txtDescricao {
             get {
@@ -296,6 +305,15 @@ namespace Pastelaria_do_Zé.Properties {
         internal static string txtFuncionarios {
             get {
                 return ResourceManager.GetString("txtFuncionarios", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a ID.
+        /// </summary>
+        internal static string txtID {
+            get {
+                return ResourceManager.GetString("txtID", resourceCulture);
             }
         }
         

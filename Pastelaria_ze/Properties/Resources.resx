@@ -170,7 +170,7 @@
     <value>Data Fiado</value>
   </data>
   <data name="txtDescricao" xml:space="preserve">
-    <value>CPF</value>
+    <value>Descrição</value>
   </data>
   <data name="txtEntrar" xml:space="preserve">
     <value>Entrar</value>
@@ -273,5 +273,11 @@
   </data>
   <data name="txtCamposPreenchidos" xml:space="preserve">
     <value>Todos os campos devem ser preenchidos!</value>
+  </data>
+  <data name="txtCPF" xml:space="preserve">
+    <value>CPF</value>
+  </data>
+  <data name="txtID" xml:space="preserve">
+    <value>ID</value>
   </data>
 </root>

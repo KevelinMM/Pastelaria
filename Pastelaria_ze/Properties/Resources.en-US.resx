@@ -165,11 +165,14 @@
   <data name="txtCopiright" xml:space="preserve">
     <value>Copyright</value>
   </data>
+  <data name="txtCPF" xml:space="preserve">
+    <value>CPF</value>
+  </data>
   <data name="txtDataFiado" xml:space="preserve">
     <value>Spun Date</value>
   </data>
   <data name="txtDescricao" xml:space="preserve">
-    <value>CPF</value>
+    <value>Description</value>
   </data>
   <data name="txtEntrar" xml:space="preserve">
     <value>Login</value>
@@ -182,6 +185,9 @@
   </data>
   <data name="txtFuncionarios" xml:space="preserve">
     <value>Employees</value>
+  </data>
+  <data name="txtID" xml:space="preserve">
+    <value>ID</value>
   </data>
   <data name="txtIdioma" xml:space="preserve">
     <value>Language</value>

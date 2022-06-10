@@ -106,6 +106,22 @@
             
             </summary>
         </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Funcionario.LimpraTela">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Funcionario.AtualizaTela">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Cadastro_Funcionario.AtualizaTelaEditar(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+        </member>
         <member name="F:Pastelaria_do_Zé.Cadastro_Funcionario.components">
             <summary>
             Required designer variable.
@@ -376,6 +392,11 @@
               Consulta uma cadeia de caracteres localizada semelhante a Copyright.
             </summary>
         </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtCPF">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a CPF.
+            </summary>
+        </member>
         <member name="P:Pastelaria_do_Zé.Properties.Resources.txtDataFiado">
             <summary>
               Consulta uma cadeia de caracteres localizada semelhante a Data Fiado.
@@ -383,7 +404,7 @@
         </member>
         <member name="P:Pastelaria_do_Zé.Properties.Resources.txtDescricao">
             <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a CPF.
+              Consulta uma cadeia de caracteres localizada semelhante a Descrição.
             </summary>
         </member>
         <member name="P:Pastelaria_do_Zé.Properties.Resources.txtEntrar">
@@ -404,6 +425,11 @@
         <member name="P:Pastelaria_do_Zé.Properties.Resources.txtFuncionarios">
             <summary>
               Consulta uma cadeia de caracteres localizada semelhante a Funcionários.
+            </summary>
+        </member>
+        <member name="P:Pastelaria_do_Zé.Properties.Resources.txtID">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a ID.
             </summary>
         </member>
         <member name="P:Pastelaria_do_Zé.Properties.Resources.txtIdioma">

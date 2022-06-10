@@ -31,10 +31,10 @@ namespace Pastelaria_do_Zé
             labelClienteCadastro.Text = Properties.Resources.ResourceManager.GetString("txtCadastroCliente");
             labelClienteID.Text = Properties.Resources.ResourceManager.GetString("txtID");
             labelClienteNome.Text = Properties.Resources.ResourceManager.GetString("txtNome");
-            labelClienteDescricao.Text = Properties.Resources.ResourceManager.GetString("txtDescricao");
+            labelClienteCPF.Text = Properties.Resources.ResourceManager.GetString("txtCPF");
             labelClienteContato.Text = Properties.Resources.ResourceManager.GetString("txtContato");
             labelClienteFiado.Text = Properties.Resources.ResourceManager.GetString("txtDataFiado");
-            labelClienteSenha.Text = Properties.Resources.ResourceManager.GetString("txtTituloPrincipal");
+            labelClienteSenha.Text = Properties.Resources.ResourceManager.GetString("txtSenha");
             labelClienteReSenha.Text = Properties.Resources.ResourceManager.GetString("txtReSenha");
             checkBoxFiado.Text = Properties.Resources.ResourceManager.GetString("txtFiado");
             maskedTextBoxCPF.Enter += new EventHandler(ClassFuncoes.CampoEventoEnter!);
