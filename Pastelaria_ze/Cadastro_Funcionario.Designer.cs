@@ -41,8 +41,6 @@
             this.labelFuncionarioContato = new System.Windows.Forms.Label();
             this.labelFuncionarioSenha = new System.Windows.Forms.Label();
             this.labelFuncionarioReSenha = new System.Windows.Forms.Label();
-            this.labelFuncionarioEmail = new System.Windows.Forms.Label();
-            this.textBoxFuncionarioEmail = new System.Windows.Forms.TextBox();
             this.salvar_VoltarFuncionario = new Pastelaria_do_Zé.Salvar_Voltar();
             this.maskedTextBoxCPF = new System.Windows.Forms.MaskedTextBox();
             this.maskedTextBoxMatricula = new System.Windows.Forms.MaskedTextBox();
@@ -74,7 +72,7 @@
             // 
             // textBoxFuncionarioSenha
             // 
-            this.textBoxFuncionarioSenha.Location = new System.Drawing.Point(54, 325);
+            this.textBoxFuncionarioSenha.Location = new System.Drawing.Point(53, 269);
             this.textBoxFuncionarioSenha.Name = "textBoxFuncionarioSenha";
             this.textBoxFuncionarioSenha.PasswordChar = '*';
             this.textBoxFuncionarioSenha.Size = new System.Drawing.Size(156, 23);
@@ -82,7 +80,7 @@
             // 
             // textBoxFuncionarioRe
             // 
-            this.textBoxFuncionarioRe.Location = new System.Drawing.Point(244, 325);
+            this.textBoxFuncionarioRe.Location = new System.Drawing.Point(243, 269);
             this.textBoxFuncionarioRe.Name = "textBoxFuncionarioRe";
             this.textBoxFuncionarioRe.PasswordChar = '*';
             this.textBoxFuncionarioRe.Size = new System.Drawing.Size(163, 23);
@@ -91,7 +89,7 @@
             // radioButtonFuncionarioAdm
             // 
             this.radioButtonFuncionarioAdm.AutoSize = true;
-            this.radioButtonFuncionarioAdm.Location = new System.Drawing.Point(219, 261);
+            this.radioButtonFuncionarioAdm.Location = new System.Drawing.Point(218, 205);
             this.radioButtonFuncionarioAdm.Name = "radioButtonFuncionarioAdm";
             this.radioButtonFuncionarioAdm.Size = new System.Drawing.Size(101, 19);
             this.radioButtonFuncionarioAdm.TabIndex = 8;
@@ -102,7 +100,7 @@
             // radioButtonFuncionarioBalcao
             // 
             this.radioButtonFuncionarioBalcao.AutoSize = true;
-            this.radioButtonFuncionarioBalcao.Location = new System.Drawing.Point(341, 261);
+            this.radioButtonFuncionarioBalcao.Location = new System.Drawing.Point(340, 205);
             this.radioButtonFuncionarioBalcao.Name = "radioButtonFuncionarioBalcao";
             this.radioButtonFuncionarioBalcao.Size = new System.Drawing.Size(60, 19);
             this.radioButtonFuncionarioBalcao.TabIndex = 9;
@@ -149,7 +147,7 @@
             // labelFuncionarioContato
             // 
             this.labelFuncionarioContato.AutoSize = true;
-            this.labelFuncionarioContato.Location = new System.Drawing.Point(54, 242);
+            this.labelFuncionarioContato.Location = new System.Drawing.Point(53, 186);
             this.labelFuncionarioContato.Name = "labelFuncionarioContato";
             this.labelFuncionarioContato.Size = new System.Drawing.Size(53, 15);
             this.labelFuncionarioContato.TabIndex = 14;
@@ -158,7 +156,7 @@
             // labelFuncionarioSenha
             // 
             this.labelFuncionarioSenha.AutoSize = true;
-            this.labelFuncionarioSenha.Location = new System.Drawing.Point(55, 307);
+            this.labelFuncionarioSenha.Location = new System.Drawing.Point(54, 251);
             this.labelFuncionarioSenha.Name = "labelFuncionarioSenha";
             this.labelFuncionarioSenha.Size = new System.Drawing.Size(42, 15);
             this.labelFuncionarioSenha.TabIndex = 15;
@@ -167,27 +165,11 @@
             // labelFuncionarioReSenha
             // 
             this.labelFuncionarioReSenha.AutoSize = true;
-            this.labelFuncionarioReSenha.Location = new System.Drawing.Point(244, 307);
+            this.labelFuncionarioReSenha.Location = new System.Drawing.Point(243, 251);
             this.labelFuncionarioReSenha.Name = "labelFuncionarioReSenha";
             this.labelFuncionarioReSenha.Size = new System.Drawing.Size(60, 15);
             this.labelFuncionarioReSenha.TabIndex = 16;
             this.labelFuncionarioReSenha.Text = "Re-Senha:";
-            // 
-            // labelFuncionarioEmail
-            // 
-            this.labelFuncionarioEmail.AutoSize = true;
-            this.labelFuncionarioEmail.Location = new System.Drawing.Point(55, 189);
-            this.labelFuncionarioEmail.Name = "labelFuncionarioEmail";
-            this.labelFuncionarioEmail.Size = new System.Drawing.Size(39, 15);
-            this.labelFuncionarioEmail.TabIndex = 48;
-            this.labelFuncionarioEmail.Text = "Email:";
-            // 
-            // textBoxFuncionarioEmail
-            // 
-            this.textBoxFuncionarioEmail.Location = new System.Drawing.Point(54, 207);
-            this.textBoxFuncionarioEmail.Name = "textBoxFuncionarioEmail";
-            this.textBoxFuncionarioEmail.Size = new System.Drawing.Size(352, 23);
-            this.textBoxFuncionarioEmail.TabIndex = 5;
             // 
             // salvar_VoltarFuncionario
             // 
@@ -227,7 +209,7 @@
             // 
             // maskedTextBoxContato
             // 
-            this.maskedTextBoxContato.Location = new System.Drawing.Point(55, 260);
+            this.maskedTextBoxContato.Location = new System.Drawing.Point(54, 204);
             this.maskedTextBoxContato.Mask = "(00) 9000-0000";
             this.maskedTextBoxContato.Name = "maskedTextBoxContato";
             this.maskedTextBoxContato.Size = new System.Drawing.Size(100, 23);
@@ -257,6 +239,7 @@
             this.buttonExcluirFuncionario.TabIndex = 71;
             this.buttonExcluirFuncionario.Text = "Excluir";
             this.buttonExcluirFuncionario.UseVisualStyleBackColor = true;
+            this.buttonExcluirFuncionario.Click += new System.EventHandler(this.buttonExcluirFuncionario_Click);
             // 
             // buttonEditarFuncionario
             // 
@@ -266,6 +249,7 @@
             this.buttonEditarFuncionario.TabIndex = 72;
             this.buttonEditarFuncionario.Text = "Editar";
             this.buttonEditarFuncionario.UseVisualStyleBackColor = true;
+            this.buttonEditarFuncionario.Click += new System.EventHandler(this.buttonEditarFuncionario_Click);
             // 
             // Cadastro_Funcionario
             // 
@@ -280,8 +264,6 @@
             this.Controls.Add(this.maskedTextBoxMatricula);
             this.Controls.Add(this.maskedTextBoxCPF);
             this.Controls.Add(this.salvar_VoltarFuncionario);
-            this.Controls.Add(this.labelFuncionarioEmail);
-            this.Controls.Add(this.textBoxFuncionarioEmail);
             this.Controls.Add(this.labelFuncionarioReSenha);
             this.Controls.Add(this.labelFuncionarioSenha);
             this.Controls.Add(this.labelFuncionarioContato);
@@ -321,8 +303,6 @@
         private Label labelFuncionarioContato;
         private Label labelFuncionarioSenha;
         private Label labelFuncionarioReSenha;
-        private Label labelFuncionarioEmail;
-        private TextBox textBoxFuncionarioEmail;
         private Salvar_Voltar salvar_VoltarFuncionario;
         private MaskedTextBox maskedTextBoxCPF;
         private MaskedTextBox maskedTextBoxMatricula;

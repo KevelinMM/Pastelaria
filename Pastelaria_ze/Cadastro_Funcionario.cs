@@ -33,8 +33,6 @@ namespace Pastelaria_do_Zé
             radioButtonFuncionarioBalcao.Text = Properties.Resources.ResourceManager.GetString("txtBalcao");
             labelFuncionarioSenha.Text = Properties.Resources.ResourceManager.GetString("txtSenha");
             labelFuncionarioReSenha.Text = Properties.Resources.ResourceManager.GetString("txtReSenha");
-            textBoxFuncionarioEmail.Enter += new EventHandler(ClassFuncoes.CampoEventoEnter!);
-            textBoxFuncionarioEmail.Leave += new EventHandler(ClassFuncoes.CampoEventoLeave!);
             textBoxFuncionarioNome.Enter += new EventHandler(ClassFuncoes.CampoEventoEnter!);
             textBoxFuncionarioNome.Leave += new EventHandler(ClassFuncoes.CampoEventoLeave!);
             textBoxFuncionarioRe.Enter += new EventHandler(ClassFuncoes.CampoEventoEnter!);
@@ -123,7 +121,7 @@ namespace Pastelaria_do_Zé
         /// <summary>
         /// 
         /// </summary>
-        public void LimpraTela()
+        public void LimpaTela()
         {
             maskedTextBoxId.Text = "";
             maskedTextBoxMatricula.Text = "";
@@ -210,6 +208,54 @@ namespace Pastelaria_do_Zé
                 DataGridViewRow selectedRow = dataGridViewDados.Rows[dataGridViewDados.SelectedCells[0].RowIndex];
                 int id = Convert.ToInt32(selectedRow.Cells[0].Value);
                 AtualizaTelaEditar(id);
+            }
+        }
+
+        private void buttonExcluirFuncionario_Click(object sender, EventArgs e)
+        {
+            //Instância e Preenche o objeto com os dados da view
+            var funcionario = new Funcionario
+            {
+                IdFuncionario = int.Parse(maskedTextBoxId.Text),
+            };
+            try
+            {
+                // chama o método para inserir da nossa camada model
+                dao.ExcluirDbProvider(funcionario);
+                AtualizaTela();
+                LimpaTela();
+                MessageBox.Show("Dados excluidos com sucesso!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void buttonEditarFuncionario_Click(object sender, EventArgs e)
+        {
+            //Instância e Preenche o objeto com os dados da view
+            var funcionario = new Funcionario
+            {
+                IdFuncionario = int.Parse(maskedTextBoxId.Text),
+                Nome = textBoxFuncionarioNome.Text,
+                Cpf = maskedTextBoxCPF.Text,
+                Telefone = maskedTextBoxContato.Text,
+                Senha = ClassFuncoes.Sha256Hash(textBoxFuncionarioSenha.Text),
+                Matricula = maskedTextBoxMatricula.Text,
+                Grupo = (radioButtonFuncionarioAdm.Checked) ? 1 : 2,
+            };
+            try
+            {
+                // chama o método para inserir da nossa camada model
+                dao.EditarDbProvider(funcionario);
+                AtualizaTela();
+                LimpaTela();
+                MessageBox.Show("Dados editados com sucesso!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
     }
