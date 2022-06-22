@@ -267,3 +267,4 @@ C:\Users\Kevelin\source\repos\Pastelaria\Pastelaria_ze\obj\Debug\net6.0-windows\
 C:\Users\Kevelin\source\repos\Pastelaria\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.pdb
 C:\Users\Kevelin\source\repos\Pastelaria\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria do Zé.genruntimeconfig.cache
 C:\Users\Kevelin\source\repos\Pastelaria\Pastelaria_ze\obj\Debug\net6.0-windows\ref\Pastelaria do Zé.dll
+C:\Users\Kevelin\source\repos\Pastelaria\Pastelaria_ze\obj\Debug\net6.0-windows\Pastelaria_do_Zé.Comandas.resources

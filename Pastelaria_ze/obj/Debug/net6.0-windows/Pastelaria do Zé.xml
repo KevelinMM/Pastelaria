@@ -158,6 +158,33 @@
             <param name="e">Evento que foi capturado</param>
             <example> textBoxUsuario.Leave += new System.EventHandler(ClassFuncoes.CampoEventoLeave); </example>
         </member>
+        <member name="T:Pastelaria_do_Zé.Comandas">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Comandas.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Pastelaria_do_Zé.Comandas.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Comandas.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Pastelaria_do_Zé.Comandas.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
         <member name="T:Pastelaria_do_Zé.Configuracoes">
             <summary>
             

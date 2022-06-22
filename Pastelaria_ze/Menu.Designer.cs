@@ -46,6 +46,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.labelMenuCadastrar = new System.Windows.Forms.Label();
             this.Matricula = new System.Windows.Forms.PictureBox();
+            this.buttonCadastrados = new System.Windows.Forms.Button();
             this.buttonSairMenu = new System.Windows.Forms.Button();
             this.labelMenuSobre = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
@@ -58,7 +59,7 @@
             this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sairToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.sobreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.buttonCadastrados = new System.Windows.Forms.Button();
+            this.buttonMenuCadastrarComanda = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -79,6 +80,7 @@
             // 
             this.splitContainer1.Panel1.BackColor = System.Drawing.Color.WhiteSmoke;
             this.splitContainer1.Panel1.ContextMenuStrip = this.contextMenuStripPrincipal;
+            this.splitContainer1.Panel1.Controls.Add(this.buttonMenuCadastrarComanda);
             this.splitContainer1.Panel1.Controls.Add(this.labelMenuFuncionarios);
             this.splitContainer1.Panel1.Controls.Add(this.labelMenuClientes);
             this.splitContainer1.Panel1.Controls.Add(this.labelMenuProdutos);
@@ -223,7 +225,7 @@
             // labelMenuCadastrar
             // 
             this.labelMenuCadastrar.AutoSize = true;
-            this.labelMenuCadastrar.Location = new System.Drawing.Point(27, 194);
+            this.labelMenuCadastrar.Location = new System.Drawing.Point(27, 161);
             this.labelMenuCadastrar.Name = "labelMenuCadastrar";
             this.labelMenuCadastrar.Size = new System.Drawing.Size(60, 15);
             this.labelMenuCadastrar.TabIndex = 2;
@@ -239,6 +241,17 @@
             this.Matricula.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Matricula.TabIndex = 0;
             this.Matricula.TabStop = false;
+            // 
+            // buttonCadastrados
+            // 
+            this.buttonCadastrados.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.buttonCadastrados.Location = new System.Drawing.Point(162, 302);
+            this.buttonCadastrados.Name = "buttonCadastrados";
+            this.buttonCadastrados.Size = new System.Drawing.Size(123, 41);
+            this.buttonCadastrados.TabIndex = 12;
+            this.buttonCadastrados.Text = "Cadastrados";
+            this.buttonCadastrados.UseVisualStyleBackColor = false;
+            this.buttonCadastrados.Click += new System.EventHandler(this.ButtonCadastrados_Click);
             // 
             // buttonSairMenu
             // 
@@ -339,16 +352,16 @@
             this.sobreToolStripMenuItem.Text = "Sobre";
             this.sobreToolStripMenuItem.Click += new System.EventHandler(this.SobreToolStripMenuItem_Click_1);
             // 
-            // buttonCadastrados
+            // buttonMenuCadastrarComanda
             // 
-            this.buttonCadastrados.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.buttonCadastrados.Location = new System.Drawing.Point(162, 302);
-            this.buttonCadastrados.Name = "buttonCadastrados";
-            this.buttonCadastrados.Size = new System.Drawing.Size(123, 41);
-            this.buttonCadastrados.TabIndex = 12;
-            this.buttonCadastrados.Text = "Cadastrados";
-            this.buttonCadastrados.UseVisualStyleBackColor = false;
-            this.buttonCadastrados.Click += new System.EventHandler(this.ButtonCadastrados_Click);
+            this.buttonMenuCadastrarComanda.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.buttonMenuCadastrarComanda.Location = new System.Drawing.Point(27, 188);
+            this.buttonMenuCadastrarComanda.Name = "buttonMenuCadastrarComanda";
+            this.buttonMenuCadastrarComanda.Size = new System.Drawing.Size(91, 23);
+            this.buttonMenuCadastrarComanda.TabIndex = 7;
+            this.buttonMenuCadastrarComanda.Text = "Comanda";
+            this.buttonMenuCadastrarComanda.UseVisualStyleBackColor = false;
+            this.buttonMenuCadastrarComanda.Click += new System.EventHandler(this.ButtonMenuCadastrarComanda_Click);
             // 
             // Menu
             // 
@@ -408,5 +421,6 @@
         private ToolStripMenuItem sairToolStripMenuItem1;
         private ToolStripMenuItem sobreToolStripMenuItem;
         private Button buttonCadastrados;
+        private Button buttonMenuCadastrarComanda;
     }
 }

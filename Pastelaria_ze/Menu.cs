@@ -209,5 +209,11 @@ namespace Pastelaria_do_Zé
             Lista lista = new();
             lista.Show();
         }
+
+        private void ButtonMenuCadastrarComanda_Click(object sender, EventArgs e)
+        {
+            Comandas comandas = new();
+            comandas.Show();
+        }
     }
 }

@@ -211,7 +211,7 @@ namespace Pastelaria_do_Zé
             }
         }
 
-        private void buttonExcluirFuncionario_Click(object sender, EventArgs e)
+        private void ButtonExcluirFuncionario_Click(object sender, EventArgs e)
         {
             //Instância e Preenche o objeto com os dados da view
             var funcionario = new Funcionario
@@ -232,7 +232,7 @@ namespace Pastelaria_do_Zé
             }
         }
 
-        private void buttonEditarFuncionario_Click(object sender, EventArgs e)
+        private void ButtonEditarFuncionario_Click(object sender, EventArgs e)
         {
             //Instância e Preenche o objeto com os dados da view
             var funcionario = new Funcionario

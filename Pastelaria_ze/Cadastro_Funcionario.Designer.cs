@@ -239,7 +239,7 @@
             this.buttonExcluirFuncionario.TabIndex = 71;
             this.buttonExcluirFuncionario.Text = "Excluir";
             this.buttonExcluirFuncionario.UseVisualStyleBackColor = true;
-            this.buttonExcluirFuncionario.Click += new System.EventHandler(this.buttonExcluirFuncionario_Click);
+            this.buttonExcluirFuncionario.Click += new System.EventHandler(this.ButtonExcluirFuncionario_Click);
             // 
             // buttonEditarFuncionario
             // 
@@ -249,7 +249,7 @@
             this.buttonEditarFuncionario.TabIndex = 72;
             this.buttonEditarFuncionario.Text = "Editar";
             this.buttonEditarFuncionario.UseVisualStyleBackColor = true;
-            this.buttonEditarFuncionario.Click += new System.EventHandler(this.buttonEditarFuncionario_Click);
+            this.buttonEditarFuncionario.Click += new System.EventHandler(this.ButtonEditarFuncionario_Click);
             // 
             // Cadastro_Funcionario
             // 
